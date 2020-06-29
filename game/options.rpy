@@ -108,7 +108,7 @@ define config.end_game_transition = None
 ## "window hide" и "window auto".
 
 define config.window = "auto"
-define config.developer = False 
+define config.developer = True
 define config.menu_include_disabled = True
 
 

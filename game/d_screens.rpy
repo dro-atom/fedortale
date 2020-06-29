@@ -126,7 +126,9 @@ screen detskaya_osmotr():
     use bubble_look(407, 368, 'd_sunduk', 'Что в сундучке?', sunduk_idle, sunduk_hover)
     use bubble_look(1170, 59, 'd_kover', 'Ковёр, жаль что не самолёт', kover_idle, kover_hover)
 
+    use arrow(30, 490, 'pravo', rotate_this(180), '-Выйти в коридор-')
     use down_text_label
+
 
 
 screen dvor_tamara():

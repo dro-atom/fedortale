@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/besik_end.rpy", line 39: expected statement.
+    xalign 0.5
+            ^
+
+File "game/besik_end.rpy", line 40: expected statement.
+    yalign 0.4
+            ^
+
+File "game/besik_end.rpy", line 177: Line is indented, but the preceding return statement statement does not expect a block. Please check this line's indentation.
+    hide besik_oret
+    ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Jun 29 20:15:10 2020
